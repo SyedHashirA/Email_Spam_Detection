@@ -45,9 +45,11 @@ source .venv/bin/activate   # macOS/Linux
 pip install -r requirements.txt
 
 Train the model
+
 python train.py --data ./data/spam.csv --model ./models/model.joblib --report ./models/metrics.json
 
 Run the API
+
 python3 app.py
 
 Backend will start at: http://localhost:5002 
