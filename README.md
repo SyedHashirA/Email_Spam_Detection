@@ -36,8 +36,7 @@ spam-pdf-classifier-starter/
 
 ## ⚙️ Installation and Setup
 
-### 1. Backend (FastAPI + ML)
-```bash
+1. Backend (FastAPI + ML)
 cd backend
 python3 -m venv .venv
 source .venv/bin/activate   # macOS/Linux
@@ -51,7 +50,8 @@ python train.py --data ./data/spam.csv --model ./models/model.joblib --report ./
 Run the API
 python3 app.py
 
-Backend will start at: http://localhost:5002
+Backend will start at: http://localhost:5002 
+
 
 2. Frontend (React + Vite)
 cd frontend
