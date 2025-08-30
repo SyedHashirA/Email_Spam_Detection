@@ -1,0 +1,21 @@
+# Node modules
+frontend/node_modules/
+backend/.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Models and datasets (optional if large)
+backend/models/*.joblib
+backend/models/*.json
+backend/data/*.csv
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+frontend/dist/
