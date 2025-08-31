@@ -111,9 +111,11 @@ The model performs well in distinguishing spam from legitimate emails.
 
 ## 🖼️ Screenshots
 Include the following in your report:
-1. **Frontend (Upload page)** – PDF upload form + result display.  
-2. **Backend (Terminal)** – running `python3 app.py` and showing logs when a PDF is classified.  
-3. **Training Output** – terminal showing model metrics (accuracy, precision, recall).  
+1. **Frontend (Upload page)** – PDF upload form + result display.
+  <img width="967" height="466" alt="Frontend" src="https://github.com/user-attachments/assets/e8473476-0bd6-4b54-b288-6e2e357c5cb4" />
+ 
+3. **Backend (Terminal)** – running `python3 app.py` and showing logs when a PDF is classified.  
+4. **Training Output** – terminal showing model metrics (accuracy, precision, recall).  
 
 ---
 
@@ -127,10 +129,8 @@ Include the following in your report:
 
 ## 👨‍💻 Author
 - **Syed Hashir Ahmed**  
-- B.Tech CSE Student  
-- [Your College Name]  
+- B.Tech CSE Student   
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![React](https://img.shields.io/badge/react-18.0-blue.svg)
 ![Flask](https://img.shields.io/badge/flask-2.0-black.svg)
